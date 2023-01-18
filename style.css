@@ -86,12 +86,24 @@
     margin-bottom: 160px;
 }
 
+.height-12 {
+    height: 12px;
+}
+
 .height-120 {
     height: 20px;
 }
 
+.weight-12 {
+    width: 12px;
+}
+
 .weight-120 {
     width: 120px;
+}
+
+.border-width-1 {
+    border-width: 1px;
 }
 
 .border-round-full {
@@ -129,6 +141,10 @@
 
  .bg-gray-300 {
     background-color: rgb(209 213 219);
+ }
+
+ .bg-blue-600 {
+    background-color: rgb(37 99 235));
  }
 
  .text-left {
