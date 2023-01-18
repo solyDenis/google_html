@@ -147,6 +147,10 @@
     background-color: rgb(37 99 235);
  }
 
+ .bg-image {
+    background-image: url(https://icon-library.com/images/magnify-icon/magnify-icon-20.jpg);
+ }
+
  .text-left {
     text-align: left;
  }
